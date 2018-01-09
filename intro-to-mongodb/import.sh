@@ -1,0 +1,1 @@
+mongoimport --type csv --headerline --db Cluster0 --collection movies_initial --host "cluster0-xxxxxxxx.net:27017" --authenticationDatabase admin --ssl --username yourusername  --file movies_initial.csv
