@@ -1,0 +1,36 @@
+{'_id': ObjectId('572bb8432b288919b69c213a'),
+ 'bikeid': 19549,
+ 'tripduration': 5293}
+{'_id': ObjectId('572bb8262b288919b68ce62f'),
+ 'bikeid': 15947,
+ 'tripduration': 5294}
+{'_id': ObjectId('572bb8262b288919b68ce62b'),
+ 'bikeid': 23539,
+ 'tripduration': 5296}
+{'_id': ObjectId('572bb83c2b288919b698a8a5'),
+ 'bikeid': 20123,
+ 'tripduration': 5758}
+{'_id': ObjectId('572bb83c2b288919b698a8a9'),
+ 'bikeid': 15904,
+ 'tripduration': 5760}
+{'_id': ObjectId('572bb8432b288919b69c211e'),
+ 'bikeid': 16960,
+ 'tripduration': 6318}
+{'_id': ObjectId('572bb8282b288919b68e2f73'),
+ 'bikeid': 14936,
+ 'tripduration': 6753}
+{'_id': ObjectId('572bb8362b288919b6957856'),
+ 'bikeid': 22463,
+ 'tripduration': 7528}
+{'_id': ObjectId('572bb8362b288919b6957859'),
+ 'bikeid': 15996,
+ 'tripduration': 7532}
+{'_id': ObjectId('572bb8432b288919b69c2193'),
+ 'bikeid': 17275,
+ 'tripduration': 8777}
+{'_id': ObjectId('572bb8432b288919b69c2192'),
+ 'bikeid': 18922,
+ 'tripduration': 8778}
+In [ ]:
+
+
