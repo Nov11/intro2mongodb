@@ -6,5 +6,7 @@ I wil add more content as I proceed with the course.
 
 -----
 ### week 1
-Seems that 'host' in import.sh is not the same string that is used to connect mongo shell to server.
-Do replace that string with one or all servers in your cluster or import.sh will not work.
+* Seems that 'host' in import.sh is not the same string that is used to connect mongo shell to server.
+Do replace that string with one or all servers in your cluster or import.sh will not work.  
+* Change the db name in import.sh if you are not using the default name.
+
